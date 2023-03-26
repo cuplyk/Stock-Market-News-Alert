@@ -12,7 +12,7 @@ The script uses the Alpha Vantage API to fetch stock price data and the News API
 ```
 
 ## 🌟 How to Use
-Clone this repository and navigate to the project directory.  \n
+Clone this repository and navigate to the project directory.
 Install the required packages using pip install -r requirements.txt.
 ``` bash
  pip install -r requirements.txt
