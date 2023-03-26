@@ -7,6 +7,9 @@ This Python script fetches the latest news articles related to a given company a
 
 ## ⚙️  Languages or Frameworks Used
 The script uses the Alpha Vantage API to fetch stock price data and the News API to fetch news articles related to the specified company.
+``` bash
+ pip3 install twilio 
+```
 
 ## 🌟 How to Use
 Clone this repository and navigate to the project directory.
