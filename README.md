@@ -12,8 +12,11 @@ The script uses the Alpha Vantage API to fetch stock price data and the News API
 ```
 
 ## 🌟 How to Use
-Clone this repository and navigate to the project directory.
-Install the required packages using pip install -r requirements.txt.
+Clone this repository and navigate to the project directory. \n
+Install the required packages using pip install -r requirements.txt. \n
+``` bash
+ pip install -r requirements.txt
+```
 Modify the STOCK_NAME, COMPANY_NAME, TWILIO_SID, ALPHA_APIKEY, NEWS_APIKEY, and TWILIO_TOKEN variables in the stock_alert.py script with your own values.
 Run the script using python stock_alert.py.
 You should receive an SMS alert with the current percentage difference of the specified stock's closing price and the top three news headlines and brief descriptions related to the specified company.
