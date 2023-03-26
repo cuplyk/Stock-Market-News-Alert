@@ -53,4 +53,5 @@ def send_sms():
         )
         print(message.status)
 
-send_sms()
+if __name__ == "__main__":
+    send_sms()
